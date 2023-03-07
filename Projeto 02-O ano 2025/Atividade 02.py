@@ -1,0 +1,5 @@
+nascimento=input("Em que ano você nasceu?")
+nascimento= int(nascimento)
+Anoatual=input("Em que ano você esta?")
+Anoatual=int(Anoatual)
+print("Em",Anoatual,"Você terá:",Anoatual-nascimento,"anos")
