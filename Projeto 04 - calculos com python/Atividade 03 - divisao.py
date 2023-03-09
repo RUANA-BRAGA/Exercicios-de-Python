@@ -1,0 +1,5 @@
+Dividendo = int(input("Digite o valor do dividendo: ").strip())
+Divisor = int(input("Digite o valor do divisor: ").strip())
+Resultado_div = int(Dividendo//Divisor)
+resto =int(Dividendo%Divisor)
+print(f"O resultado da divisao é {Resultado_div} e o resto é {resto}")
